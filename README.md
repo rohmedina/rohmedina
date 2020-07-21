@@ -1,10 +1,10 @@
 ### Hey 👋, I'm RohMedina
 
 <a href="https://www.linkedin.com/in/rodrigo-medina-gatica/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.sv" />
 </a>
 <a href="https://www.instagram.com/r000drigo/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
 </a>
 <br />
 <br />
@@ -20,6 +20,7 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
 - 🤔 My interests are Front development and online marketing;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rmedina@wdromedina.com to reach me.
+- 🔭 You can visit my portfolio [Portfolio](https://wdromedina.com/)
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1-GVf_sRf42z9f1MB35iLrweFbZPTVm-o/view?usp=sharing) to get more info.
 
 

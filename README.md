@@ -1,7 +1,7 @@
 ### Hey 👋, I'm RohMedina
 
 <a href="https://www.linkedin.com/in/rodrigo-medina-gatica/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.sv" />
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/r000drigo/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />

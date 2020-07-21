@@ -36,4 +36,4 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
 
 ![RohMedina's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
 
-⭐️ From [RohMedina](https://github.com/rohmedina
+⭐️ From [RohMedina](https://github.com/rohmedina)

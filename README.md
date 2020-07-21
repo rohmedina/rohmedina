@@ -34,6 +34,6 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![RohMedina's github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+![RohMedina's github stats](https://github-readme-stats.vercel.app/api?username=rohmedina&show_icons=true&hide_border=true)
 
 ⭐️ From [RohMedina](https://github.com/rohmedina)

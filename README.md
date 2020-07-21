@@ -40,6 +40,12 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
 ![RohMedina's github stats](https://github-readme-stats.vercel.app/api?username=rohmedina&show_icons=true)
 
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rohmedina.rohmedina)
+<p align="center">
+  <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=rohmedina.rohmedina" />
+  
+  
+</p>
+
+
 
 ⭐️ From [RohMedina](https://github.com/rohmedina)

@@ -15,7 +15,7 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/rohmedina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohmedina&layout=compact)](https://github.com/rohmedina/github-readme-stats)
 
 **Talking about Personal Stuffs:**
 

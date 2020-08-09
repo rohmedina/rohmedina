@@ -13,6 +13,10 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
 
   <img align="right" alt="GIF" src="https://dhmstudio.com/wp-content/uploads/2020/05/web-developer.gif" />
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 **Talking about Personal Stuffs:**
 
 

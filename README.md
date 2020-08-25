@@ -48,11 +48,11 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
 <br />
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohmedina&layout=compact&theme=highcontrast)](https://github.com/rohmedina/github-readme-stats)
 
 
 <br />
-
 
 
 ![RohMedina's github stats](https://github-readme-stats.vercel.app/api?username=rohmedina&show_icons=true&theme=highcontrast)
@@ -64,6 +64,7 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
   
 </p>
 
-
+<br />
+<br />
 
 ⭐️ From [RohMedina](https://github.com/rohmedina)

@@ -11,7 +11,7 @@
 
 Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently learning **Python** and improving my **JavaScript and VueJS skills**.  👨🏽‍💼. 
 
-  <img align="right" alt="GIF" src="https://dhmstudio.com/wp-content/uploads/2020/05/web-developer.gif" />
+  <img align="right" alt="GIF" src="https://smejoinup.com/wp-content/uploads/2018/02/web-development.gif" />
 
 <br />
 <br />

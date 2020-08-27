@@ -24,7 +24,7 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rmedina@wdromedina.com to reach me.
 - 🔭 You can visit my [Portfolio](https://wdromedina.com/)
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1-GVf_sRf42z9f1MB35iLrweFbZPTVm-o/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1xnPZ230xqVs9qZmrVB5d43sVr45GcSM0/view?usp=sharing) to get more info.
 
 
 ---

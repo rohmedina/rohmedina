@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently learning **Python** and improving my **JavaScript and VueJS skills**.  👨🏽‍💼. 
+Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently improving my **JavaScript and VueJS skills**.  👨🏽‍💼. 
 
   <img align="center" alt="GIF" src="https://geeksgod.com/wp-content/uploads/2020/05/Understanding-of-a-Web-Developer.png" />
 
@@ -19,12 +19,13 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
 **Talking about Personal Stuffs:**
 
 
-- 🌱 I’m currently learning Python; 
+- 🌱 Practice pages [Link Netlify](https://app.netlify.com/teams/rohmedina/sites);
 - 🤔 My interests are Front development and online marketing;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via rmedina@wdromedina.com to reach me.
-- 🔭 You can visit my [Portfolio](https://wdromedina.com/)
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1TlNeJv0G558Js3w_QErYXKVBoCZ5p29h/view?usp=sharing) to get more info.
+- 📫 Please email via rmedina@wdromedina.com to reach me;
+- 🔭 You can visit my [Portfolio](https://wdromedina.com/);
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1TlNeJv0G558Js3w_QErYXKVBoCZ5p29h/view?usp=sharing) to get more info;
+
 
 
 ---
@@ -58,7 +59,7 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently l
 ![RohMedina's github stats](https://github-readme-stats.vercel.app/api?username=rohmedina&show_icons=true&theme=highcontrast)
 
 
-<p align="center">
+<p align="center">:
   <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=rohmedina.rohmedina" />
   
   

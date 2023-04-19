@@ -23,7 +23,7 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently i
 - 🤔 My interests are Front development and online marketing;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via rmedinagatica@gmail.com to reach me;
-- 📝 See my [Curriculum Vitae](https://drive.google.com/drive/folders/1b9yYMyC0A-vaTrejYDk4VwmD7lyoh97L/view?usp=sharing) to get more info;
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1tj-V1Ixf2NYkh824NGS16oyWvjwBNOrg/view?usp=sharing) to get more info;
 
 
 

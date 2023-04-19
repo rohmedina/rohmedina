@@ -22,9 +22,8 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently i
 - 🌱 Practice pages [Link Netlify](https://app.netlify.com/teams/rohmedina/sites);
 - 🤔 My interests are Front development and online marketing;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via rmedina@wdromedina.com to reach me;
-- 🔭 You can visit my [Portfolio](https://wdromedina.com/);
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1TlNeJv0G558Js3w_QErYXKVBoCZ5p29h/view?usp=sharing) to get more info;
+- 📫 Please email via rmedinagatica@gmail.com to reach me;
+- 📝 See my [Curriculum Vitae](https://drive.google.com/drive/folders/1b9yYMyC0A-vaTrejYDk4VwmD7lyoh97L/view?usp=sharing) to get more info;
 
 
 

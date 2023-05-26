@@ -44,16 +44,12 @@ Hi there, I'm **Rodrigo Medina**, a new **Front-End developer**, I'm currently i
 <br />
 <br />
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohmedina&layout=compact&theme=highcontrast)](https://github.com/rohmedina/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohmedina&layout=compact)](https://github.com/rohmedina/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rohmedina.vercel.app/api/top-langs/?username=rohmedina&langs_count=5&theme=highcontrast)](https://github.com/rohmedina/github-readme-stats)
 
 <br />
 
 
-![RohMedina's github stats](https://github-readme-stats.vercel.app/api?username=rohmedina&show_icons=true&theme=highcontrast)
+![RohMedina's github stats](https://github-readme-stats-rohmedina.vercel.app/api?username=rohmedina&show_icons=true&theme=highcontrast)
 
 
 <p align="center">
